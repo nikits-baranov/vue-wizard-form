@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue-form-project/',
+  base: '/vue-wizard-form/',
   plugins: [vue()],
   resolve: {
     alias: {
