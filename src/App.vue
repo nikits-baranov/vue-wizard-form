@@ -29,7 +29,7 @@ import { RouterView } from 'vue-router'
                   </li>
                   <li>
                     <a
-                      href="javascript:void(0)"
+                      href="https://nikits-baranov.github.io/es6-wizard-form/"
                       class="text-dark hover:text-primary py-2 text-base font-medium ml-12 inline-flex"
                     >
                       ES6 solution
@@ -40,7 +40,7 @@ import { RouterView } from 'vue-router'
             </div>
             <div class="hidden justify-end pr-16 sm:flex lg:pr-0">
               <a
-                href="javascript:void(0)"
+                href="https://github.com/nikits-baranov/vue-wizard-form"
                 class="bg-primary rounded-lg py-3 px-7 text-base font-medium text-white hover:bg-opacity-90"
               >
                 View source code
